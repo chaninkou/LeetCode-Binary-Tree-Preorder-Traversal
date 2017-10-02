@@ -1,4 +1,8 @@
 package mergesort;
+/*   
+	Author: Chan In Kou
+	Purpose: This program will sort an array list with merge sort 
+*/
 
 public class MergeSort {
 
