@@ -1,4 +1,4 @@
-package preorder;
+package leetcode144;
 
 public class TreeNode {
 	int val;
